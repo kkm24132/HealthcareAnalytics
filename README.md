@@ -1,6 +1,8 @@
 # Healthcare_Analytics
-Healthcare Analytics - ability to predict potential of medical tourism in India
-Part of Capstone project in Great Lakes
+
+* Ability to predict potential of medical tourism in India
+* Part of Capstone project in Great Lakes
+
 ## Team
 
 * Vinay Saxena [v.saxena574@gmail.com]
