@@ -1,7 +1,7 @@
 # Healthcare_Analytics
 
 * Ability to predict potential of medical tourism in India
-* Part of Capstone project in Great Lakes
+* Part of Capstone project
 
 ## Team
 
