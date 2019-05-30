@@ -5,9 +5,9 @@
 
 ## Team
 
-* Vinay Saxena [v.saxena574@gmail.com]
-* Sakshi Kukreja [sakshi.kukreja@outlook.com]
-* Priyank Khemka [khemka.priyank@gmail.com]
-* Varun Khurana [varun_khurana@hotmail.com]
+* Vinay Saxena
+* Sakshi Kukreja
+* Priyank Khemka
+* Varun Khurana
 * Kamal Mishra
 
