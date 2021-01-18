@@ -15,7 +15,16 @@ When we look at this domain, following could be potential broad areas where AI/M
   - Medical imaging insights
   - Early diagnostics
   - Imaging analysis for critical care area with prioritization
-- Reasearch and Development
-- Predictive Maintenance
-- Management and Operations
+- **Reasearch and Development**
+  - Drug Discovery
+  - Gene analytics and editing
+  - Device and drug comparative effectiveness
+- **Predictive Maintenance**
+  - Device and component level failure prediction (Devices such as Xray machines, ECG machines etc.) - mostly large medical equipment manufacturing firms. Benefits: Availability of devices going up to some percent points, Predicting failures upto X%
+- **Management and Operations**
+  - Pricing analytics
+  - Risk analytics
+  - Brand management and marketing
+  - Market Research
+
 
