@@ -8,7 +8,7 @@ When we look at this domain, following could be potential broad areas where AI/M
   - Personalized medications and care
   - Realtime or near real time case prioritization and triage
   - Assisted / Automated diagnosis and prescription
-  - Any specific disease care management (e.g. Pregnancy Management) from end to end to give a 360 degree to patient care
+  - Any specific disease care management (e.g. Oncology treatment, Epidemiology, Pregnancy Management) from end to end to give a 360 degree to patient care
   - Assist in preventive care for patients
 - Medical Imaging and Diagnostics
 - Reasearch and Development
